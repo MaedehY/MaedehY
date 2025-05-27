@@ -11,7 +11,7 @@ I’m currently researching drinking water quality and public health risks. My w
 -------------------------------------------------------------------------------------------------------------------------------
 🌱 **Currently Learning**
 
-I’m currently learning advanced multilevel modeling and regression and R language to advance my research in a high quality and proffesional way
+I’m currently learning advanced multilevel modeling, regression, and the R programming language to enhance the quality and professionalism of my research.
 
 -------------------------------------------------------------------------------------------------------------------------------
 ⚡ **Fun fact**
