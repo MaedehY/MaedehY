@@ -1,4 +1,48 @@
-## Hi there 👋
+## Hello 👋
+👩‍💻**ABOUT ME**
+
+PhD candidate in Environmental Engineering at the University of South Florida, specializing in water quality, and conservation. Holds a background in natural resources engineering and environmental science, with a focus on linking community needs with academic research to improve public health and environmental justice. Skilled in data analysis to drive impactful research outcomes. Seeking opportunities to collaborate on interdisciplinary projects addressing water quality improvement, disease reduction, and sustainable resource management.
+
+-------------------------------------------------------------------------------------------------------------------------------
+🔭 **Current Research**
+
+I’m currently researching drinking water quality and public health risks. My work focuses on modeling risk and exposure using large-scale water system data (6YR, UCMR, IRIS, Census), R programming and geospatial analysis to identify environmental injustices and support more equitable water management solutions.
+
+-------------------------------------------------------------------------------------------------------------------------------
+🌱 **Currently Learning**
+
+I’m currently learning advanced multilevel modeling and regression and R language to advance my research in a high quality and proffesional way
+
+-------------------------------------------------------------------------------------------------------------------------------
+⚡ **Fun fact**
+
+A fun fact about me is that when I have a responsibility or a project in progress, it becomes my top priority. I stay focused until I'm confident everything is on track and completed well before the deadline!
+
+-------------------------------------------------------------------------------------------------------------------------------
+💻**Tech Stack**
+
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+-------------------------------------------------------------------------------------------------------------------------------
+📫 **How to reach me**
+
+My email address: 
+
+📨 Maedeh@usf.edu
+
+-------------------------------------------------------------------------------------------------------------------------------
+🌐 **Connect with me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MaedehY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maedehyazdani/)
+
+<h3>✍️ Dev Quote of the Day</h3>
+
+<blockquote>
+  <em>“Code is like humor. When you have to explain it, it’s bad.
+.”</em><br>
+  — <a href="https://en.wikipedia.org/wiki/Cory House">Ludwig Wittgenstein</a>
+</blockquote>
 
 <!--
 **MaedehY/MaedehY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
