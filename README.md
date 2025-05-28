@@ -44,6 +44,12 @@ My email address:
   — <a href="https://en.wikipedia.org/wiki/Cory House">Ludwig Wittgenstein</a>
 </blockquote>
 
+
+
+### 🐍 My GitHub Contribution Snake
+
+![snake gif](https://maedehy.github.io/snk/github-contribution-grid-snake.svg)
+
 <!--
 **MaedehY/MaedehY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
