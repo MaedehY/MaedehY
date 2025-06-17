@@ -35,6 +35,7 @@ My email address:
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MaedehY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maedehyazdani/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0007-7795-061X)
 
 <h3>✍️ Dev Quote of the Day</h3>
 
