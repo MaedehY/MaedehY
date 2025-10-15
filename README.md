@@ -1,7 +1,7 @@
 ## Hello 👋
 👩‍💻**ABOUT ME**
 
-PhD candidate in Environmental Engineering at the University of South Florida, specializing in water quality, and conservation. Holds a background in natural resources engineering and environmental science, with a focus on linking community needs with academic research to improve public health and environmental justice. Skilled in data analysis to drive impactful research outcomes. Seeking opportunities to collaborate on interdisciplinary projects addressing water quality improvement, disease reduction, and sustainable resource management.
+PhD candidate in Environmental Engineering specializing in water quality, data analytics, and risk modeling. Experienced in developing national-scale water quality databases, evaluating contaminants under the SDWA (EPA), and applying geospatial and statistical tools (R, ArcGIS Pro) to support regulatory and infrastructure decision-making. Skilled in translating complex environmental data into actionable insights for public health protection and policy improvement. Seeking opportunities in environmental consulting, data-driven infrastructure planning, and regulatory compliance..
 
 -------------------------------------------------------------------------------------------------------------------------------
 🔭 **Current Research**
