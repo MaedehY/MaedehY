@@ -1,7 +1,7 @@
 ## Hello 👋
 👩‍💻**ABOUT ME**
 
-PhD candidate in Environmental Engineering specializing in water quality, data analytics, and risk modeling. Experienced in developing national-scale water quality databases, evaluating contaminants under the SDWA (EPA), and applying geospatial and statistical tools (R, ArcGIS Pro) to support regulatory and infrastructure decision-making. Skilled in translating complex environmental data into actionable insights for public health protection and policy improvement. Seeking opportunities in environmental consulting, data-driven infrastructure planning, and regulatory compliance..
+PhD candidate in Environmental Engineering specializing in water quality, data analytics, and risk modeling. Experienced in developing national-scale water quality databases, evaluating contaminants under the SDWA (EPA), and applying geospatial and statistical tools (R, ArcGIS Pro) to support regulatory and infrastructure decision-making. Skilled in translating complex environmental data into actionable insights for public health protection and policy improvement.
 
 -------------------------------------------------------------------------------------------------------------------------------
 🔭 **Current Research**
